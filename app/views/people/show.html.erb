@@ -1,0 +1,45 @@
+<%= render 'facebook/facebookSDK' %>
+<%= render 'twitter/twitterSDK' %>
+<link href='http://fonts.googleapis.com/css?family=Lobster|Bangers|Boogaloo' rel='stylesheet' type='text/css'>
+<br>
+<br>
+<br>
+<br>
+<div class="main">
+<h2>Thanks <%= @person.first_name%>.</h2>
+  <%=def get_suffix(number)
+        suffix = ''
+        if number > 10 and number < 20
+          suffix = 'th'
+        else
+          last_digit = number % 10
+          if last_digit == 1
+            suffix = 'st'
+          elsif last_digit == 2
+            suffix = 'nd'
+          elsif last_digit == 3
+            suffix = 'rd'
+          else
+            suffix = 'th'
+          end
+        end
+        return suffix
+       end
+      %>
+<h2>You are our <%= @people.length.to_s + get_suffix(@people.length) %> crimefighting kid!</h2>
+<p class="cool_p">
+  <strong>We are in our beta testing stage, </strong>
+  <strong>we need <%=(1000 - @people.length).to_s%> more crime kids. Tell your friends?</strong>
+</p>
+
+<div class="social">
+	<span class="twitter">
+		<%= render 'twitter/share' %>
+	</span>
+
+	<span class="Facebook">
+		<%=render 'facebook/share' %>
+	</span>
+</div>
+<p class="cool_p"><strong>Thanks for fighting crime.</strong></p>
+</div>

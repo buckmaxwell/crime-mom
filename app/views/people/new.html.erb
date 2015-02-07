@@ -1,0 +1,40 @@
+<link href='http://fonts.googleapis.com/css?family=Lobster|Bangers' rel='stylesheet' type='text/css'>
+<div class="main">
+  <h1><%= link_to 'Ready to be a crime kid?', 'about', :class=> 'big_title'%></h1>
+
+
+  <button id="show_form" class="button" onclick="show_hide();">Become a super hero!</button>
+
+    <%= form_for :person, url: people_path do |f| %>
+      <% if @person.errors.any? %>
+          <div id="error_explanation">
+            <h2>
+              <%= pluralize(@person.errors.count, "error") %> prohibited
+              this article from being saved:
+            </h2>
+            <ul>
+              <% @person.errors.full_messages.each do |msg| %>
+                  <li><%= msg %></li>
+              <% end %>
+            </ul>
+          </div>
+      <% end %>
+    <div id="main_form">
+        <p>
+          <%= f.text_field :first_name, class:'form-control', autofocus: true, placeholder: 'First Name' %>
+        </p>
+
+        <p>
+          <%= f.text_field :last_name, class:'form-control', autofocus: true, placeholder: 'Last Name' %>
+        </p>
+
+        <p>
+          <%= f.text_field :email, class:'form-control', autofocus: true, placeholder: 'Osu Email' %>
+        </p>
+
+        <p>
+          <%= f.submit 'Blast off!', :class => 'submit_button' %>
+        </p>
+    <% end %>
+</div>
+</div>

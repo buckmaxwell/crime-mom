@@ -1,0 +1,101 @@
+// Place all the styles related to the people controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+/* This gets Google to fall into place */
+.main{
+  text-align: center;
+}
+.big_title{
+  font-family: 'Lobster', cursive;
+  color: darkblue;;
+  font-size: 300%;
+  text-decoration: none;
+
+}
+.big_title:hover{
+  color: blue;
+}
+.cool_p{
+  font-family: Boogaloo, cursive;
+  font-size: 150%;
+}
+body{
+  background-color: #B00100;
+}
+
+h2{
+  font-family: Bangers, cursive;
+  color: blue;
+  font-size: 250%;
+}
+
+.button{
+  border: 0px;
+  background-color: cadetblue;
+  font-family: Bangers, cursive;
+  font-size: 250%;
+  color: #730E15;
+  border-radius: 10px;
+  padding: 10px;
+}
+.button:hover{
+  background-color: yellow;
+}
+
+.form-control{
+  width: 30%;
+  padding: 10px;
+
+}
+
+.form-control:hover{
+  background-color: aqua;
+  color: red;
+
+}
+
+.submit_button{
+  border: 0px;
+  border-radius: 10px;
+  background-color: cadetblue;
+  color: #F7F7F7;
+  padding: 10px;
+  font-family: arial, sans-serif;
+
+}
+
+#main_form{
+  display: none;
+}
+.social {
+  font-size: 1px;
+}
+
+/* This gets Facebook to fall into place */
+.social Facebook {
+  vertical-align: middle;
+}
+
+.social Reddit {
+  vertical-align: middle;
+}
+
+/* Set an optional width for your button wrappers */
+.social span {
+  display: inline-block;
+  width: 70px;
+}
+
+/* Adjust the widths individually if you like */
+.social .google {
+  width: 75px;
+}
+
+/*Fonts */
+@font-face {
+  font-family: 'Lobster';
+  src: url('../fonts/Lobster/Lobster-Regular.ttf');
+  src: url('../fonts/Lobster/Lobster-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
