@@ -2,30 +2,70 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 /* This gets Google to fall into place */
+#bang{
+  margin: 10px;
+  margin-top: 95px;
+  text-indent:10px;
+  font-family: 'action_man_extendeditalic';
+  color: black;
+}
+
+#bang a{
+  color: black;
+  font-size: 25px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: grey;
+}
+
 .main{
   text-align: center;
+  margin-top: 10%;
+  margin-bottom: 10%;
 }
 .big_title{
-  font-family: 'Lobster', cursive;
-  color: darkblue;;
-  font-size: 300%;
+  font-family: 'bullpen3d', cursive;//'babyk',Lobster, cursive;
+  #color: black;
+  //color: #000066;
+  //color: #0000ff;
+  color: #0086b3;
+  font-size: 250%;
   text-decoration: none;
 
 }
 .big_title:hover{
-  color: blue;
+  //color: blue;
+  color: yellow;
 }
 .cool_p{
   font-family: Boogaloo, cursive;
+  color: yellow;
   font-size: 150%;
 }
 body{
   background-color: #B00100;
+
+
+  //background-origin: -100px;
+  //background-color: #b43d3d;
+  //background-image: url('red-yellow-dots.jpg');
+  //width: 100%;
+  //height: 300px;
+  //background-size: 100%;
+  //background-repeat: no-repeat;
 }
+ #all{
+   background-image: url('bang.png');
+   background-size: 220px;
+   background-repeat: no-repeat;
+   position:absolute;
+   top:0; right:0;
+   bottom:0; left:0;
+ }
 
 h2{
   font-family: Bangers, cursive;
-  color: blue;
+  //color: #0086b3;
+  color: yellow;
   font-size: 250%;
 }
 
@@ -34,12 +74,14 @@ h2{
   background-color: cadetblue;
   font-family: Bangers, cursive;
   font-size: 250%;
-  color: #730E15;
+  //color: #730E15;
+  color: #B00100;
   border-radius: 10px;
   padding: 10px;
 }
 .button:hover{
   background-color: yellow;
+  color: red;
 }
 
 .form-control{

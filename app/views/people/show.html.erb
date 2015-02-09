@@ -1,11 +1,15 @@
 <%= render 'facebook/facebookSDK' %>
 <%= render 'twitter/twitterSDK' %>
 <link href='http://fonts.googleapis.com/css?family=Lobster|Bangers|Boogaloo' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="stylesheet.css" type="text/css" charset="utf-8" />
+
+
+
 <br>
 <br>
 <br>
 <br>
-<div class="main">
+<div class="main" style="margin-top: 10%;">
 <h2>Thanks <%= @person.first_name%>.</h2>
   <%=def get_suffix(number)
         suffix = ''
@@ -27,11 +31,13 @@
        end
       %>
 <h2>You are our <%= @people.length.to_s + get_suffix(@people.length) %> crimefighting kid!</h2>
+  <br>
+  <br>
 <p class="cool_p">
   <strong>We are in our beta testing stage, </strong>
   <strong>we need <%=(1000 - @people.length).to_s%> more crime kids. Tell your friends?</strong>
 </p>
-
+<br><br>
 <div class="social">
 	<span class="twitter">
 		<%= render 'twitter/share' %>
@@ -41,5 +47,7 @@
 		<%=render 'facebook/share' %>
 	</span>
 </div>
+  <br>
+  <br>
 <p class="cool_p"><strong>Thanks for fighting crime.</strong></p>
 </div>

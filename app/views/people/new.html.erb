@@ -1,4 +1,14 @@
+<div id="all">
+
 <link href='http://fonts.googleapis.com/css?family=Lobster|Bangers' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="stylesheet.css" type="text/css" charset="utf-8" />
+
+
+<div id="bang">
+  <%= link_to 'About us', '/about' %>
+</div>
+
+
 <div class="main">
   <h1><%= link_to 'Ready to be a crime kid?', 'about', :class=> 'big_title'%></h1>
 
@@ -20,21 +30,26 @@
           </div>
       <% end %>
     <div id="main_form">
+      <br>
         <p>
           <%= f.text_field :first_name, class:'form-control', autofocus: true, placeholder: 'First Name' %>
         </p>
+      <br>
 
         <p>
           <%= f.text_field :last_name, class:'form-control', autofocus: true, placeholder: 'Last Name' %>
         </p>
+      <br>
 
         <p>
           <%= f.text_field :email, class:'form-control', autofocus: true, placeholder: 'Osu Email' %>
         </p>
+      <br>
 
         <p>
           <%= f.submit 'Blast off!', :class => 'submit_button' %>
         </p>
     <% end %>
+</div>
 </div>
 </div>

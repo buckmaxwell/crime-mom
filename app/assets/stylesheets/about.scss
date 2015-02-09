@@ -1,7 +1,13 @@
 // Place all the styles related to the about controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.about_main {
+  width: 70%;
+  margin: 3% auto;
+
+}
 .about_main h1{
+  text-align: left;
   font-family: Lobster, cursive;
   font-size: 250%;
 }
@@ -13,10 +19,16 @@
 .about_main{
   border-radius: 20px;
   background-color: #F7F7F7;
-  font-family: Boogaloo, cursive;
+  //font-family: cursive;
+  font-family: 'action_manregular', cursive;
+  //font: 'minya-novelle';
   padding: 20px;
   font-size: 150%;
   color: black;
+}
+
+.about_main h3 {
+  //letter-spacing: 1px;
 }
 
 .indent{
@@ -24,5 +36,5 @@
 }
 
 li{
-  font-family: Boogaloo, cursive;
+  font-family: 'action_manregular', cursive;
 }
