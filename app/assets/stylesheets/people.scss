@@ -3,24 +3,41 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 /* This gets Google to fall into place */
 #bang{
-  margin: 10px;
-  margin-top: 95px;
-  text-indent:10px;
+   width:240px;
+  height:222px;
+  position:absolute;
+  top:0px;
+  right:0px;
   font-family: 'action_man_extendeditalic';
   color: black;
+  background-image: url('bang.png');
+  background-size: 222px;
+  background-repeat: no-repeat;
+
 }
 
 #bang a{
-  color: black;
-  font-size: 25px;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: grey;
+  font-size: 40px;
+  text-align: center;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white ;
+  color: red;
+  text-shadow: 3px 3px black;
+  display: inline-block;
+  position: relative;
+  top: 80px;
+  right:10px;
+  width:200px;
+  font-weight: bold;
+  -webkit-transform: rotate(-18deg);
+  -ms-transform: rotate(-18deg);
+  transform: rotate(-18deg);
 }
 
 .main{
   text-align: center;
-  margin-top: 10%;
-  margin-bottom: 10%;
+  margin-top: 344px;
+  margin-bottom: 300px;
 }
 .big_title{
   font-family: 'bullpen3d', cursive;//'babyk',Lobster, cursive;
@@ -55,14 +72,7 @@ body{
   //background-size: 100%;
   //background-repeat: no-repeat;
 }
- #all{
-   background-image: url('bang.png');
-   background-size: 220px;
-   background-repeat: no-repeat;
-   position:absolute;
-   top:0; right:0;
-   bottom:0; left:0;
- }
+
 
 h2{
   font-family: Bangers, cursive;
