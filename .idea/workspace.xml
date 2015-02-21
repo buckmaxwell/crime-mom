@@ -29,7 +29,7 @@
       <file leaf-file-name="people_controller.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/people_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="510">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
               <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
               <folding />
             </state>
@@ -46,22 +46,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="new.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/people/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1396648" vertical-offset="0" max-vertical-offset="870">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <state vertical-scroll-proportion="-25.0" vertical-offset="30" max-vertical-offset="870">
+              <caret line="42" column="73" selection-start-line="42" selection-start-column="73" selection-end-line="42" selection-end-column="73" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="people.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="people.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/people.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="2400">
-              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-              <folding />
+            <state vertical-scroll-proportion="0.42159384" vertical-offset="1067" max-vertical-offset="1845">
+              <caret line="113" column="17" selection-start-line="113" selection-start-column="17" selection-end-line="113" selection-end-column="17" />
+              <folding>
+                <element signature="e#224#460#0" expanded="false" />
+                <element signature="e#850#956#0" expanded="false" />
+                <element signature="e#963#1033#0" expanded="false" />
+                <element signature="e#2281#2301#0" expanded="false" />
+                <element signature="e#2310#2331#0" expanded="false" />
+                <element signature="e#2394#2423#0" expanded="false" />
+                <element signature="e#2440#2469#0" expanded="false" />
+                <element signature="e#2537#2580#0" expanded="false" />
+                <element signature="e#2647#2665#0" expanded="false" />
+                <element signature="e#2689#2886#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,8 +105,8 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/about.scss" />
         <option value="$PROJECT_DIR$/app/views/pages/about.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/people_controller.rb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/people.scss" />
         <option value="$PROJECT_DIR$/app/views/people/new.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/people.scss" />
       </list>
     </option>
   </component>
@@ -411,7 +422,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -420,9 +431,9 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22361112" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21805556" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32992035" sideWeight="0.31944445" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.055745166" sideWeight="0.31944445" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -483,6 +494,68 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/people.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="2400">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="e#224#460#0" expanded="false" />
+            <element signature="e#850#956#0" expanded="false" />
+            <element signature="e#963#1033#0" expanded="false" />
+            <element signature="e#2281#2301#0" expanded="false" />
+            <element signature="e#2310#2331#0" expanded="false" />
+            <element signature="e#2394#2423#0" expanded="false" />
+            <element signature="e#2440#2469#0" expanded="false" />
+            <element signature="e#2537#2580#0" expanded="false" />
+            <element signature="e#2647#2665#0" expanded="false" />
+            <element signature="e#2689#2886#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/people_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="510">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/person.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/people/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/people.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="2400">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="e#224#460#0" expanded="false" />
+            <element signature="e#850#956#0" expanded="false" />
+            <element signature="e#963#1033#0" expanded="false" />
+            <element signature="e#2281#2301#0" expanded="false" />
+            <element signature="e#2310#2331#0" expanded="false" />
+            <element signature="e#2394#2423#0" expanded="false" />
+            <element signature="e#2440#2469#0" expanded="false" />
+            <element signature="e#2537#2580#0" expanded="false" />
+            <element signature="e#2647#2665#0" expanded="false" />
+            <element signature="e#2689#2886#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/people_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="510">
@@ -503,7 +576,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="2250">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="8" />
-          <folding />
+          <folding>
+            <element signature="e#224#460#0" expanded="false" />
+            <element signature="e#850#956#0" expanded="false" />
+            <element signature="e#963#1033#0" expanded="false" />
+            <element signature="e#2281#2301#0" expanded="false" />
+            <element signature="e#2310#2331#0" expanded="false" />
+            <element signature="e#2394#2423#0" expanded="false" />
+            <element signature="e#2440#2469#0" expanded="false" />
+            <element signature="e#2537#2580#0" expanded="false" />
+            <element signature="e#2647#2665#0" expanded="false" />
+            <element signature="e#2689#2886#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -533,7 +617,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1566" max-vertical-offset="2700">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="8" />
-          <folding />
+          <folding>
+            <element signature="e#224#460#0" expanded="false" />
+            <element signature="e#850#956#0" expanded="false" />
+            <element signature="e#963#1033#0" expanded="false" />
+            <element signature="e#2281#2301#0" expanded="false" />
+            <element signature="e#2310#2331#0" expanded="false" />
+            <element signature="e#2394#2423#0" expanded="false" />
+            <element signature="e#2440#2469#0" expanded="false" />
+            <element signature="e#2537#2580#0" expanded="false" />
+            <element signature="e#2647#2665#0" expanded="false" />
+            <element signature="e#2689#2886#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -577,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="614">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -641,7 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17589577" vertical-offset="0" max-vertical-offset="1242">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -799,19 +892,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/people.scss">
+    <entry file="file://$PROJECT_DIR$/app/views/people/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="2400">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        <state vertical-scroll-proportion="-25.0" vertical-offset="30" max-vertical-offset="870">
+          <caret line="42" column="73" selection-start-line="42" selection-start-column="73" selection-end-line="42" selection-end-column="73" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/people/new.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/people.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1396648" vertical-offset="0" max-vertical-offset="870">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding />
+        <state vertical-scroll-proportion="0.42159384" vertical-offset="1067" max-vertical-offset="1845">
+          <caret line="113" column="17" selection-start-line="113" selection-start-column="17" selection-end-line="113" selection-end-column="17" />
+          <folding>
+            <element signature="e#224#460#0" expanded="false" />
+            <element signature="e#850#956#0" expanded="false" />
+            <element signature="e#963#1033#0" expanded="false" />
+            <element signature="e#2281#2301#0" expanded="false" />
+            <element signature="e#2310#2331#0" expanded="false" />
+            <element signature="e#2394#2423#0" expanded="false" />
+            <element signature="e#2440#2469#0" expanded="false" />
+            <element signature="e#2537#2580#0" expanded="false" />
+            <element signature="e#2647#2665#0" expanded="false" />
+            <element signature="e#2689#2886#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
