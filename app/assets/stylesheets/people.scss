@@ -348,3 +348,14 @@ h2{
   }
 
 }
+
+@media (max-width: 392px) {
+  .button {
+    margin-top: -100px;
+    font-size: 125%;
+    text-shadow: none;
+    background: rgb(0,141,201);
+    color: yellow;
+  }
+
+}
