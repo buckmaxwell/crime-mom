@@ -2,21 +2,60 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 /* This gets Google to fall into place */
+body{
+  background-color: #B00100;
+}
+
+#pricelogo{
+  background: url("leftcorner.png");
+  background-size: 148px 229px;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0px;
+  left: 20px;
+  height: 229px;
+  width: 148px;
+}
+
+#comicsCode{
+  background: url("comicsCode.png");
+  background-size: 90px 94px;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  height: 94px;
+  width: 94px;
+}
+
+.main{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 300px;
+}
+
+.big_title{
+  font-family: 'bullpen3d', cursive;//'babyk',Lobster, cursive;
+  color: yellow;
+  font-size: 200%;
+  text-decoration: none;
+  text-shadow: 3px 3px 5px black;
+}
+
 #bang{
    width:240px;
   height:222px;
   position:absolute;
-  top:0px;
-  right:0px;
+  top:170px;
+  right:350px;
   font-family: 'action_man_extendeditalic';
   color: black;
   background-image: url('bang.png');
   background-size: 222px;
   background-repeat: no-repeat;
 
-}
 
-#bang a{
+}  #bang a{
   font-size: 40px;
   text-align: center;
   -webkit-text-stroke-width: 2px;
@@ -38,32 +77,13 @@
    transform: rotate(-12deg);
  }
 
-.main{
-  text-align: center;
-  margin-top: 250px;
-  margin-bottom: 300px;
-}
-.big_title{
-  font-family: 'bullpen3d', cursive;//'babyk',Lobster, cursive;
-  color: yellow;
-  font-size: 250%;
-  text-decoration: none;
-  text-shadow: 3px 3px 5px black;
 
 
-}
-.big_title:hover{
-  //color: blue;
-  //color: green;
-  color: #0086b3;
-}
+
 .cool_p{
   font-family: Boogaloo, cursive;
   color: yellow;
   font-size: 150%;
-}
-body{
-  background-color: #B00100;
 }
 
 
@@ -73,6 +93,19 @@ h2{
   color: yellow;
   font-size: 250%;
 }
+
+#power{
+  background: url("power.png");
+  margin-top: 80px;
+  width:410px;
+  height:422px;
+  background-size: 410px 422px;
+  background-repeat: no-repeat;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
 
 .button{
   border: none;
@@ -84,8 +117,9 @@ h2{
   color: red;
   border-radius: 10px;
   padding: 15px;
-  margin-top: 50px;
+  margin-top: 40px;
   text-shadow: 3px 3px black;
+
 
 }
 .button:hover{
@@ -154,4 +188,147 @@ h2{
   src: url('../fonts/Lobster/Lobster-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+}
+
+@media (min-width: 701px) and (max-width: 1275px) {
+  #pricelogo{
+    background-size: 111px 172px;
+    left: 15px;
+    height: 172px;
+    width: 111px;
+  }
+
+  #comicsCode{
+    background-size: 68px 70px;
+    top: 15px;
+    right: 15px;
+    height: 70px;
+    width: 68px;
+  }
+
+  .big_title{
+    font-size: 175%;
+    margin-top: 0px;
+    display: inline-block;
+    width:70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #bang{
+    width:180px;
+    height:167px;
+    top:170px;
+    right:25%;
+    background-image: url('bang.png');
+    background-size: 180px 167px;
+
+  }#bang a{
+     font-size: 30px;
+     position: relative;
+     top: 70px;
+     right:10px;
+     width:180px;
+     font-weight: bold;
+   }
+
+}
+
+@media (min-width: 524px) and (max-width: 700px) {
+  #pricelogo{
+    background-size: 74px 115px;
+    left: 10px;
+    height: 115px;
+    width: 74px;
+  }
+
+  #comicsCode{
+    background-size: 45px 47px;
+    top: 10px;
+    right: 10px;
+    height: 47px;
+    width: 47px;
+  }
+
+  .big_title{
+    font-size: 150%;
+    margin-top: 0px;
+    display: inline-block;
+    width:70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #bang{
+    width:158px;
+    height:147px;
+    top:150px;
+    right:100px;
+    background-image: url('bang.png');
+    background-size: 158px 147px;
+
+  }#bang a{
+     font-size: 30px;
+     position: relative;
+     top: 50px;
+     right:30px;
+     width:200px;
+     font-weight: bold;
+   }
+
+}
+
+
+@media (max-width: 523px) {
+  #pricelogo{
+    background-size: 49px 76px;
+    left: 5px;
+    height: 76px;
+    width: 49px;
+  }
+
+  #comicsCode{
+    background-size: 31px 32px;
+    top: 5px;
+    right: 5px;
+    height: 31px;
+    width: 31px;
+  }
+
+  .big_title{
+    font-size: 100%;
+    margin-top: 0px;
+    display: inline-block;
+    width:70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #bang{
+    width:125px;
+    height:116px;
+    top:160px;
+    right:20px;
+    background-image: url('bang.png');
+    background-size: 125px 116px;
+
+  }#bang a{
+     font-size: 20px;
+     position: relative;
+     top: 50px;
+     right:10px;
+     width:125px;
+     font-weight: bold;
+     -webkit-text-stroke-width: 1px;
+   }
+  #power{
+    background: url("power.png");
+    margin-top: 80px;
+    max-width: 410px;
+    width:100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+
+  }
 }
