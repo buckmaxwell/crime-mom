@@ -49,12 +49,13 @@
       <file leaf-file-name="people.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/people.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8269231" vertical-offset="3660" max-vertical-offset="4440">
-              <caret line="335" column="18" selection-start-line="335" selection-start-column="18" selection-end-line="335" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.8269231" vertical-offset="2805" max-vertical-offset="3585">
+              <caret line="236" column="49" selection-start-line="236" selection-start-column="49" selection-end-line="236" selection-end-column="49" />
               <folding>
                 <element signature="e#223#255#0" expanded="false" />
                 <element signature="e#1536#1642#0" expanded="false" />
-                <element signature="e#4187#4853#0" expanded="false" />
+                <element signature="e#4187#4890#0" expanded="false" />
+                <element signature="e#4919#5826#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -466,7 +467,8 @@
           <folding>
             <element signature="e#223#255#0" expanded="false" />
             <element signature="e#1536#1642#0" expanded="false" />
-            <element signature="e#4187#4853#0" expanded="false" />
+            <element signature="e#4187#4890#0" expanded="false" />
+            <element signature="e#4919#5826#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -501,7 +503,8 @@
           <folding>
             <element signature="e#223#255#0" expanded="false" />
             <element signature="e#1536#1642#0" expanded="false" />
-            <element signature="e#4187#4853#0" expanded="false" />
+            <element signature="e#4187#4890#0" expanded="false" />
+            <element signature="e#4919#5826#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -528,7 +531,8 @@
           <folding>
             <element signature="e#223#255#0" expanded="false" />
             <element signature="e#1536#1642#0" expanded="false" />
-            <element signature="e#4187#4853#0" expanded="false" />
+            <element signature="e#4187#4890#0" expanded="false" />
+            <element signature="e#4919#5826#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -562,7 +566,8 @@
           <folding>
             <element signature="e#223#255#0" expanded="false" />
             <element signature="e#1536#1642#0" expanded="false" />
-            <element signature="e#4187#4853#0" expanded="false" />
+            <element signature="e#4187#4890#0" expanded="false" />
+            <element signature="e#4919#5826#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -838,12 +843,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/people.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8269231" vertical-offset="3660" max-vertical-offset="4440">
-          <caret line="335" column="18" selection-start-line="335" selection-start-column="18" selection-end-line="335" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.8269231" vertical-offset="2805" max-vertical-offset="3585">
+          <caret line="236" column="49" selection-start-line="236" selection-start-column="49" selection-end-line="236" selection-end-column="49" />
           <folding>
             <element signature="e#223#255#0" expanded="false" />
             <element signature="e#1536#1642#0" expanded="false" />
-            <element signature="e#4187#4853#0" expanded="false" />
+            <element signature="e#4187#4890#0" expanded="false" />
+            <element signature="e#4919#5826#0" expanded="false" />
           </folding>
         </state>
       </provider>
