@@ -29,8 +29,8 @@
       <file leaf-file-name="new.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/people/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="960">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.375" vertical-offset="15" max-vertical-offset="990">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -39,41 +39,72 @@
       <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/people/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="870">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="60" max-vertical-offset="870">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="109" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/pages/about.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.057692308" vertical-offset="0" max-vertical-offset="1230">
+            <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="1230">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#h3#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#2;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#3;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#4;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#2;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#3;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#7;n#div#0;n#!!top" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="people.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="people.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/people.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-58.125" vertical-offset="3840" max-vertical-offset="5385">
-              <caret line="355" column="4" selection-start-line="355" selection-start-column="4" selection-end-line="355" selection-end-column="4" />
+            <state vertical-scroll-proportion="-0.44230768" vertical-offset="720" max-vertical-offset="1500">
+              <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
               <folding>
                 <element signature="e#223#255#0" expanded="false" />
-                <element signature="e#1536#1642#0" expanded="false" />
+                <element signature="e#267#452#0" expanded="false" />
+                <element signature="e#465#648#0" expanded="false" />
+                <element signature="e#655#724#0" expanded="false" />
+                <element signature="e#736#898#0" expanded="false" />
+                <element signature="e#905#1146#0" expanded="false" />
+                <element signature="e#1154#1522#0" expanded="false" />
+                <element signature="e#1535#1641#0" expanded="false" />
+                <element signature="e#1653#1726#0" expanded="false" />
+                <element signature="e#1731#1823#0" expanded="false" />
+                <element signature="e#1840#1966#0" expanded="false" />
+                <element signature="e#1974#2117#0" expanded="false" />
+                <element signature="e#2127#2385#0" expanded="false" />
+                <element signature="e#2399#2449#0" expanded="false" />
+                <element signature="e#2464#2520#0" expanded="false" />
+                <element signature="e#2540#2620#0" expanded="false" />
+                <element signature="e#2636#2820#0" expanded="false" />
+                <element signature="e#2841#2893#0" expanded="false" />
+                <element signature="e#2905#2925#0" expanded="false" />
+                <element signature="e#2934#2955#0" expanded="false" />
+                <element signature="e#3018#3047#0" expanded="false" />
+                <element signature="e#3064#3093#0" expanded="false" />
+                <element signature="e#3161#3204#0" expanded="false" />
+                <element signature="e#3271#3289#0" expanded="false" />
+                <element signature="e#3313#3510#0" expanded="false" />
+                <element signature="e#3576#3668#0" expanded="false" />
+                <element signature="e#3683#3787#0" expanded="false" />
+                <element signature="e#3801#3937#0" expanded="false" />
+                <element signature="e#3946#4090#0" expanded="false" />
+                <element signature="e#4100#4228#0" expanded="false" />
+                <element signature="e#4239#4310#0" expanded="false" />
+                <element signature="e#4377#4467#0" expanded="false" />
+                <element signature="e#4482#4586#0" expanded="false" />
+                <element signature="e#4600#4736#0" expanded="false" />
+                <element signature="e#4745#4891#0" expanded="false" />
+                <element signature="e#4898#5026#0" expanded="false" />
+                <element signature="e#5037#5107#0" expanded="false" />
+                <element signature="e#5152#5239#0" expanded="false" />
+                <element signature="e#5254#5356#0" expanded="false" />
+                <element signature="e#5370#5506#0" expanded="false" />
+                <element signature="e#5515#5660#0" expanded="false" />
+                <element signature="e#5670#5835#0" expanded="false" />
+                <element signature="e#5847#5968#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -105,10 +136,10 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/bullpen3d/stylesheet.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/about.scss" />
         <option value="$PROJECT_DIR$/app/controllers/people_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/people/new.html.erb" />
         <option value="$PROJECT_DIR$/app/views/people/show.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/people.scss" />
         <option value="$PROJECT_DIR$/app/views/pages/about.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/people/new.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/people.scss" />
       </list>
     </option>
   </component>
@@ -142,6 +173,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="RailsProjectView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -260,8 +293,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -438,19 +469,19 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21319444" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38339022" sideWeight="0.6805556" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.05346985" sideWeight="0.31944445" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287827" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38339022" sideWeight="0.6805556" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -471,9 +502,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980783" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.56160456" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -506,7 +537,48 @@
           <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
           <folding>
             <element signature="e#223#255#0" expanded="false" />
-            <element signature="e#1536#1642#0" expanded="false" />
+            <element signature="e#267#452#0" expanded="false" />
+            <element signature="e#465#648#0" expanded="false" />
+            <element signature="e#655#724#0" expanded="false" />
+            <element signature="e#736#898#0" expanded="false" />
+            <element signature="e#905#1146#0" expanded="false" />
+            <element signature="e#1154#1522#0" expanded="false" />
+            <element signature="e#1535#1641#0" expanded="false" />
+            <element signature="e#1653#1726#0" expanded="false" />
+            <element signature="e#1731#1823#0" expanded="false" />
+            <element signature="e#1840#1966#0" expanded="false" />
+            <element signature="e#1974#2117#0" expanded="false" />
+            <element signature="e#2127#2385#0" expanded="false" />
+            <element signature="e#2399#2449#0" expanded="false" />
+            <element signature="e#2464#2520#0" expanded="false" />
+            <element signature="e#2540#2620#0" expanded="false" />
+            <element signature="e#2636#2820#0" expanded="false" />
+            <element signature="e#2841#2893#0" expanded="false" />
+            <element signature="e#2905#2925#0" expanded="false" />
+            <element signature="e#2934#2955#0" expanded="false" />
+            <element signature="e#3018#3047#0" expanded="false" />
+            <element signature="e#3064#3093#0" expanded="false" />
+            <element signature="e#3161#3204#0" expanded="false" />
+            <element signature="e#3271#3289#0" expanded="false" />
+            <element signature="e#3313#3510#0" expanded="false" />
+            <element signature="e#3576#3668#0" expanded="false" />
+            <element signature="e#3683#3787#0" expanded="false" />
+            <element signature="e#3801#3937#0" expanded="false" />
+            <element signature="e#3946#4090#0" expanded="false" />
+            <element signature="e#4100#4228#0" expanded="false" />
+            <element signature="e#4239#4310#0" expanded="false" />
+            <element signature="e#4377#4467#0" expanded="false" />
+            <element signature="e#4482#4586#0" expanded="false" />
+            <element signature="e#4600#4736#0" expanded="false" />
+            <element signature="e#4745#4891#0" expanded="false" />
+            <element signature="e#4898#5026#0" expanded="false" />
+            <element signature="e#5037#5107#0" expanded="false" />
+            <element signature="e#5152#5239#0" expanded="false" />
+            <element signature="e#5254#5356#0" expanded="false" />
+            <element signature="e#5370#5506#0" expanded="false" />
+            <element signature="e#5515#5660#0" expanded="false" />
+            <element signature="e#5670#5835#0" expanded="false" />
+            <element signature="e#5847#5968#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -540,7 +612,48 @@
           <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
           <folding>
             <element signature="e#223#255#0" expanded="false" />
-            <element signature="e#1536#1642#0" expanded="false" />
+            <element signature="e#267#452#0" expanded="false" />
+            <element signature="e#465#648#0" expanded="false" />
+            <element signature="e#655#724#0" expanded="false" />
+            <element signature="e#736#898#0" expanded="false" />
+            <element signature="e#905#1146#0" expanded="false" />
+            <element signature="e#1154#1522#0" expanded="false" />
+            <element signature="e#1535#1641#0" expanded="false" />
+            <element signature="e#1653#1726#0" expanded="false" />
+            <element signature="e#1731#1823#0" expanded="false" />
+            <element signature="e#1840#1966#0" expanded="false" />
+            <element signature="e#1974#2117#0" expanded="false" />
+            <element signature="e#2127#2385#0" expanded="false" />
+            <element signature="e#2399#2449#0" expanded="false" />
+            <element signature="e#2464#2520#0" expanded="false" />
+            <element signature="e#2540#2620#0" expanded="false" />
+            <element signature="e#2636#2820#0" expanded="false" />
+            <element signature="e#2841#2893#0" expanded="false" />
+            <element signature="e#2905#2925#0" expanded="false" />
+            <element signature="e#2934#2955#0" expanded="false" />
+            <element signature="e#3018#3047#0" expanded="false" />
+            <element signature="e#3064#3093#0" expanded="false" />
+            <element signature="e#3161#3204#0" expanded="false" />
+            <element signature="e#3271#3289#0" expanded="false" />
+            <element signature="e#3313#3510#0" expanded="false" />
+            <element signature="e#3576#3668#0" expanded="false" />
+            <element signature="e#3683#3787#0" expanded="false" />
+            <element signature="e#3801#3937#0" expanded="false" />
+            <element signature="e#3946#4090#0" expanded="false" />
+            <element signature="e#4100#4228#0" expanded="false" />
+            <element signature="e#4239#4310#0" expanded="false" />
+            <element signature="e#4377#4467#0" expanded="false" />
+            <element signature="e#4482#4586#0" expanded="false" />
+            <element signature="e#4600#4736#0" expanded="false" />
+            <element signature="e#4745#4891#0" expanded="false" />
+            <element signature="e#4898#5026#0" expanded="false" />
+            <element signature="e#5037#5107#0" expanded="false" />
+            <element signature="e#5152#5239#0" expanded="false" />
+            <element signature="e#5254#5356#0" expanded="false" />
+            <element signature="e#5370#5506#0" expanded="false" />
+            <element signature="e#5515#5660#0" expanded="false" />
+            <element signature="e#5670#5835#0" expanded="false" />
+            <element signature="e#5847#5968#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -566,7 +679,48 @@
           <caret line="7" column="8" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="8" />
           <folding>
             <element signature="e#223#255#0" expanded="false" />
-            <element signature="e#1536#1642#0" expanded="false" />
+            <element signature="e#267#452#0" expanded="false" />
+            <element signature="e#465#648#0" expanded="false" />
+            <element signature="e#655#724#0" expanded="false" />
+            <element signature="e#736#898#0" expanded="false" />
+            <element signature="e#905#1146#0" expanded="false" />
+            <element signature="e#1154#1522#0" expanded="false" />
+            <element signature="e#1535#1641#0" expanded="false" />
+            <element signature="e#1653#1726#0" expanded="false" />
+            <element signature="e#1731#1823#0" expanded="false" />
+            <element signature="e#1840#1966#0" expanded="false" />
+            <element signature="e#1974#2117#0" expanded="false" />
+            <element signature="e#2127#2385#0" expanded="false" />
+            <element signature="e#2399#2449#0" expanded="false" />
+            <element signature="e#2464#2520#0" expanded="false" />
+            <element signature="e#2540#2620#0" expanded="false" />
+            <element signature="e#2636#2820#0" expanded="false" />
+            <element signature="e#2841#2893#0" expanded="false" />
+            <element signature="e#2905#2925#0" expanded="false" />
+            <element signature="e#2934#2955#0" expanded="false" />
+            <element signature="e#3018#3047#0" expanded="false" />
+            <element signature="e#3064#3093#0" expanded="false" />
+            <element signature="e#3161#3204#0" expanded="false" />
+            <element signature="e#3271#3289#0" expanded="false" />
+            <element signature="e#3313#3510#0" expanded="false" />
+            <element signature="e#3576#3668#0" expanded="false" />
+            <element signature="e#3683#3787#0" expanded="false" />
+            <element signature="e#3801#3937#0" expanded="false" />
+            <element signature="e#3946#4090#0" expanded="false" />
+            <element signature="e#4100#4228#0" expanded="false" />
+            <element signature="e#4239#4310#0" expanded="false" />
+            <element signature="e#4377#4467#0" expanded="false" />
+            <element signature="e#4482#4586#0" expanded="false" />
+            <element signature="e#4600#4736#0" expanded="false" />
+            <element signature="e#4745#4891#0" expanded="false" />
+            <element signature="e#4898#5026#0" expanded="false" />
+            <element signature="e#5037#5107#0" expanded="false" />
+            <element signature="e#5152#5239#0" expanded="false" />
+            <element signature="e#5254#5356#0" expanded="false" />
+            <element signature="e#5370#5506#0" expanded="false" />
+            <element signature="e#5515#5660#0" expanded="false" />
+            <element signature="e#5670#5835#0" expanded="false" />
+            <element signature="e#5847#5968#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -599,7 +753,48 @@
           <caret line="7" column="8" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="8" />
           <folding>
             <element signature="e#223#255#0" expanded="false" />
-            <element signature="e#1536#1642#0" expanded="false" />
+            <element signature="e#267#452#0" expanded="false" />
+            <element signature="e#465#648#0" expanded="false" />
+            <element signature="e#655#724#0" expanded="false" />
+            <element signature="e#736#898#0" expanded="false" />
+            <element signature="e#905#1146#0" expanded="false" />
+            <element signature="e#1154#1522#0" expanded="false" />
+            <element signature="e#1535#1641#0" expanded="false" />
+            <element signature="e#1653#1726#0" expanded="false" />
+            <element signature="e#1731#1823#0" expanded="false" />
+            <element signature="e#1840#1966#0" expanded="false" />
+            <element signature="e#1974#2117#0" expanded="false" />
+            <element signature="e#2127#2385#0" expanded="false" />
+            <element signature="e#2399#2449#0" expanded="false" />
+            <element signature="e#2464#2520#0" expanded="false" />
+            <element signature="e#2540#2620#0" expanded="false" />
+            <element signature="e#2636#2820#0" expanded="false" />
+            <element signature="e#2841#2893#0" expanded="false" />
+            <element signature="e#2905#2925#0" expanded="false" />
+            <element signature="e#2934#2955#0" expanded="false" />
+            <element signature="e#3018#3047#0" expanded="false" />
+            <element signature="e#3064#3093#0" expanded="false" />
+            <element signature="e#3161#3204#0" expanded="false" />
+            <element signature="e#3271#3289#0" expanded="false" />
+            <element signature="e#3313#3510#0" expanded="false" />
+            <element signature="e#3576#3668#0" expanded="false" />
+            <element signature="e#3683#3787#0" expanded="false" />
+            <element signature="e#3801#3937#0" expanded="false" />
+            <element signature="e#3946#4090#0" expanded="false" />
+            <element signature="e#4100#4228#0" expanded="false" />
+            <element signature="e#4239#4310#0" expanded="false" />
+            <element signature="e#4377#4467#0" expanded="false" />
+            <element signature="e#4482#4586#0" expanded="false" />
+            <element signature="e#4600#4736#0" expanded="false" />
+            <element signature="e#4745#4891#0" expanded="false" />
+            <element signature="e#4898#5026#0" expanded="false" />
+            <element signature="e#5037#5107#0" expanded="false" />
+            <element signature="e#5152#5239#0" expanded="false" />
+            <element signature="e#5254#5356#0" expanded="false" />
+            <element signature="e#5370#5506#0" expanded="false" />
+            <element signature="e#5515#5660#0" expanded="false" />
+            <element signature="e#5670#5835#0" expanded="false" />
+            <element signature="e#5847#5968#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -842,36 +1037,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/people/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="960">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/people.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-58.125" vertical-offset="3840" max-vertical-offset="5385">
-          <caret line="355" column="4" selection-start-line="355" selection-start-column="4" selection-end-line="355" selection-end-column="4" />
-          <folding>
-            <element signature="e#223#255#0" expanded="false" />
-            <element signature="e#1536#1642#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.01923077" vertical-offset="0" max-vertical-offset="780">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/people/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="870">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="60" max-vertical-offset="870">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="109" />
           <folding />
         </state>
@@ -879,18 +1054,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/about.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.057692308" vertical-offset="0" max-vertical-offset="1230">
+        <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="1230">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/people/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="15" max-vertical-offset="990">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/people.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.44230768" vertical-offset="720" max-vertical-offset="1500">
+          <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#h3#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#2;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#3;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#4;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#3;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#7;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#223#255#0" expanded="false" />
+            <element signature="e#267#452#0" expanded="false" />
+            <element signature="e#465#648#0" expanded="false" />
+            <element signature="e#655#724#0" expanded="false" />
+            <element signature="e#736#898#0" expanded="false" />
+            <element signature="e#905#1146#0" expanded="false" />
+            <element signature="e#1154#1522#0" expanded="false" />
+            <element signature="e#1535#1641#0" expanded="false" />
+            <element signature="e#1653#1726#0" expanded="false" />
+            <element signature="e#1731#1823#0" expanded="false" />
+            <element signature="e#1840#1966#0" expanded="false" />
+            <element signature="e#1974#2117#0" expanded="false" />
+            <element signature="e#2127#2385#0" expanded="false" />
+            <element signature="e#2399#2449#0" expanded="false" />
+            <element signature="e#2464#2520#0" expanded="false" />
+            <element signature="e#2540#2620#0" expanded="false" />
+            <element signature="e#2636#2820#0" expanded="false" />
+            <element signature="e#2841#2893#0" expanded="false" />
+            <element signature="e#2905#2925#0" expanded="false" />
+            <element signature="e#2934#2955#0" expanded="false" />
+            <element signature="e#3018#3047#0" expanded="false" />
+            <element signature="e#3064#3093#0" expanded="false" />
+            <element signature="e#3161#3204#0" expanded="false" />
+            <element signature="e#3271#3289#0" expanded="false" />
+            <element signature="e#3313#3510#0" expanded="false" />
+            <element signature="e#3576#3668#0" expanded="false" />
+            <element signature="e#3683#3787#0" expanded="false" />
+            <element signature="e#3801#3937#0" expanded="false" />
+            <element signature="e#3946#4090#0" expanded="false" />
+            <element signature="e#4100#4228#0" expanded="false" />
+            <element signature="e#4239#4310#0" expanded="false" />
+            <element signature="e#4377#4467#0" expanded="false" />
+            <element signature="e#4482#4586#0" expanded="false" />
+            <element signature="e#4600#4736#0" expanded="false" />
+            <element signature="e#4745#4891#0" expanded="false" />
+            <element signature="e#4898#5026#0" expanded="false" />
+            <element signature="e#5037#5107#0" expanded="false" />
+            <element signature="e#5152#5239#0" expanded="false" />
+            <element signature="e#5254#5356#0" expanded="false" />
+            <element signature="e#5370#5506#0" expanded="false" />
+            <element signature="e#5515#5660#0" expanded="false" />
+            <element signature="e#5670#5835#0" expanded="false" />
+            <element signature="e#5847#5968#0" expanded="false" />
           </folding>
         </state>
       </provider>
