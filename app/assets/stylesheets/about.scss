@@ -33,9 +33,27 @@
 }
 
 .indent{
-  padding-left:5em;
+  padding-left:10%;
 }
 
 li{
   font-family: 'action_manregular', cursive;
+}
+
+#miscreants{
+  margin-top: 30px;
+}
+@media (max-width: 523px) {
+  .aboutwelcome{
+    font-size:150%;
+  }
+  .about_main h2{
+    -webkit-text-stroke-width: 1px;
+  }
+  h3{
+    font-size: 60%;
+  }
+  .indent{
+    font-size:60%;
+  }
 }
